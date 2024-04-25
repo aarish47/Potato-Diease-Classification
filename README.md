@@ -1,0 +1,3 @@
+# Potato Disease Classification
+
+This project aims to develop a robust classification system for potato diseases using machine learning techniques. By leveraging image processing and deep learning algorithms, the system can accurately identify and classify various diseases affecting potato crops, such as late blight, early blight, and potato virus Y. Through the integration of advanced computer vision methods, the model provides farmers and agricultural experts with a powerful tool for early detection and targeted management of potato diseases, ultimately contributing to improved crop yield and sustainable agriculture practices.
